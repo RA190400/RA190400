@@ -13,9 +13,9 @@ I'm a Master's student in **Applied Data Science** at the University of Southern
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python, R, SQL, NoSQL (MongoDB, Firebase, DynamoDB)
-- **Libraries/Frameworks**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Langchain, SpaCy, OpenAI, Streamlit, XGBoost
+- **Libraries/Frameworks**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Langchain, SpaCy, OpenAI, Streamlit, XGBoost,PySpark, BeautifulSoup, Selenium,
 - **Cloud & Data Management**: AWS, Heroku, Flask, Tableau, Hadoop, Apache Spark
-- **Other Tools**: Jupyter Notebooks, PySpark, BeautifulSoup, Selenium, Microsoft Excel
+- **Other Tools**: Jupyter Notebooks,Microsoft Excel
 
 ## 🌱 Current Focus
 I'm currently focusing on expanding my knowledge in NLP and exploring the latest advancements in LLMs.
