@@ -25,6 +25,6 @@ I'm currently working on:
 ## 📫 How to Reach Me
 
 - **Email**: [rakshitg@usc.edu](mailto:rakshitg@usc.edu)
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/rakshit-grover-33825a1b2/])
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rakshit-grover-33825a1b2/)
 
 Feel free to check out my projects and repositories, and let's connect!
