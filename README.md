@@ -18,9 +18,7 @@ I'm a Master's student in **Applied Data Science** at the University of Southern
 - **Other Tools**: Jupyter Notebooks, PySpark, BeautifulSoup, Selenium, Microsoft Excel
 
 ## 🌱 Current Focus
-
-I'm currently working on:
--I'm currently focusing on expanding my knowledge in NLP and exploring the latest advancements in LLMs.
+I'm currently focusing on expanding my knowledge in NLP and exploring the latest advancements in LLMs.
 
 ## 📫 How to Reach Me
 
